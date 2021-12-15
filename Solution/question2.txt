@@ -1,0 +1,4 @@
+•	Internal clients send requests to a stable internal IP address and the name of the service is ClusterIP which we will be using
+•	OAuth 2.0 will be implemented and will be used for authenticating API’s.
+•	Ingress will also be used to defines rules for routing HTTP(S) traffic to applications running in a cluster
+•	Access scopes will be used for specifying permissions 
