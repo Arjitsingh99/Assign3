@@ -1,0 +1,12 @@
+GKE gives a lot of features which can be helpful for a business thinking about moving from another Kubernetes engine. 
+1.	Easy Backup for data: GKE has systems in place which make it easy for developers and businesses to back up and secure their data.
+2.	Account Security: With google accounts you can secure the application and make sure only the people you want to have access to the application and code can get access to it,
+	and you can monitor progress. This also makes it easier to assign and reassign roles to members to tasks.
+3.	Google VPN: This feature allows multiple networks and cluster IPs to be able to work together and coexist independent of each other on different servers.
+4.	Security: GKE is monitored and backed by a large team of security personnel which can help with any problems and help keep the service secure.
+5.	Cloud logging and monitoring: These services can be enabled to allow ease of access to logs and make monitoring of progress on your applications
+	and projects easier so you can ask for any improvements or changes while the job is being done to improve efficiency.
+6.	Scaling of application requirements: You can automatically scale the size of the application depending on how big you want the application to be 
+	and how many people will you be serving with it so it can better suite your needs.
+7.	Resource Limits: It is possible to put limits on how much computer resources your application will take and make sure that the application or service is tailored to your and the client’s needs.
+GKE is a very valuable tool for an organization and well worth investing in since it can greatly help boost the performance and efficiency of the work done.
